@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"model","l":"ComplexityType"},{"p":"model","l":"Controller"},{"p":"model","l":"Enemy"},{"p":"model","l":"EnemyType"},{"p":"model","l":"Level"},{"p":"ui","l":"Manager"},{"p":"model","l":"Player"},{"p":"model","l":"Treasure"},{"p":"model","l":"TypesOfResolution"}];updateSearchResults();
